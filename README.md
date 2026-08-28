@@ -1,5 +1,6 @@
 # NYC-Yellow-Taxi-Operations-Intelligence
-Exploratory Data Analysis of Urban Mobility - May 2026
+Exploratory Data Analysis of Urban Mobility - May 2026   
+* [NYC Txi Intelligence.ipynb](https://github.com/Mayreeobi/NYC-Yellow-Taxi-Operations-Intelligence/blob/main/NYC%20Taxi%20Operations%20Intelligence.ipynb)
 
 
 ## Project Overview
